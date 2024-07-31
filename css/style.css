@@ -43,5 +43,15 @@ img {
 
 
 #avatar {
-    max-width: 25%;
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+#contact .form-control {
+    border: 0;
+
+    border-bottom: 1px solid darkgrey;
+
+    border-radius: 0;
 }
