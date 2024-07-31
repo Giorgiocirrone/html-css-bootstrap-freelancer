@@ -1,0 +1,47 @@
+header {
+    height: 80px;
+    border: 2px dashed dodgerblue;
+}
+
+form {
+    min-height: 500px;
+
+
+}
+
+
+section {
+    min-height: 500px;
+    border: 2px dashed dodgerblue;
+
+}
+
+.container {
+
+    border: 2px dashed dodgerblue;
+}
+
+.container-fluid {
+
+    border: 2px dashed dodgerblue;
+}
+
+
+[class^='col'] {
+
+
+    border: 2px dashed dodgerblue;
+    min-height: 50px;
+}
+
+
+img {
+
+    max-width: 100%;
+}
+
+
+
+#avatar {
+    max-width: 25%;
+}
